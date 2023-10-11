@@ -1,2 +1,2 @@
-# fpmi_data_science
+# FPMI_Data_Science
 Homeworks
